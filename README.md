@@ -25,3 +25,8 @@
 > 알고리즘을 수행할 템플릿 메소드를 만든다.
 > 하위 클래스에서 나눠진 메소드들을 구현한다.
  - ![img_2.png](img_2.png)
+ 
+
+4. Factory Method Pattern
+ - 구조와 구현의 분리를 이해
+ - ![img_3.png](img_3.png)
