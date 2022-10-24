@@ -30,3 +30,7 @@
 4. Factory Method Pattern
  - 구조와 구현의 분리를 이해
  - ![img_3.png](img_3.png)
+
+5. Singleton Pattern
+ - 하나만 생성해야할 객체를 위한 패턴
+ - ![img_4.png](img_4.png)
