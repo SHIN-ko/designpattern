@@ -22,4 +22,9 @@ public class LgGramBlueprint extends BluePrint{
     public void setStorage() {
         computer.setCpu("256g ssd");
     }
+
+    @Override
+    public Computer getComputer() {
+        return computer;
+    }
 }
