@@ -44,3 +44,6 @@
 7. Builder Pattern
  - 복잡한 단계를 거쳐야 생성되는 객체의 구현을 서브 클래스에 넘겨주는 패턴
  - ![img_6.png](img_6.png)
+
+8. AbstractFactory 
+ - ![img_7.png](img_7.png)
