@@ -47,3 +47,7 @@
 
 8. AbstractFactory 
  - ![img_7.png](img_7.png)
+
+9. Bridge Pattern
+ - 기능 부분과 구현 부분 분리
+ - ![img_8.png](img_8.png)
