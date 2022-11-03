@@ -51,3 +51,6 @@
 9. Bridge Pattern
  - 기능 부분과 구현 부분 분리
  - ![img_8.png](img_8.png)
+
+10. Composite Pattern
+ - ![img_9.png](img_9.png)
